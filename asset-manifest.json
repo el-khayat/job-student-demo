@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9fa5f565.css",
+    "main.js": "./static/js/main.f10d2711.js",
+    "static/media/cover.jpg": "./static/media/cover.ae436d354e502fcfe553.jpg",
+    "static/media/binomee.jpg": "./static/media/binomee.e0a4c100561c907c891c.jpg",
+    "static/media/login.svg": "./static/media/login.79872296556418253ca4b3289f856112.svg",
+    "index.html": "./index.html",
+    "main.9fa5f565.css.map": "./static/css/main.9fa5f565.css.map",
+    "main.f10d2711.js.map": "./static/js/main.f10d2711.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fa5f565.css",
+    "static/js/main.f10d2711.js"
+  ]
+}
